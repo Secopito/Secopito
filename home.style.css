@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    font-size: 100px;
+    font-family: arial;
+    color: transparent;
+    -webkit-text-stroke: 3px purple;
+}
+
+section0 *{
+    margin: 100px;
+    padding: 100px;
+    
+}
+
+section0 p{
+    text-align: center;
+    font-size: 35px;
+    text-decoration: solid;
+    border-bottom: double 20px #feafff;
+    -webkit-text-stroke: 1px purple;
+
+}
+
