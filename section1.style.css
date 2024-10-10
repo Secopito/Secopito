@@ -1,0 +1,41 @@
+
+
+section1 body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: transparent;
+}
+
+section1 .wrapper{
+    margin: 150px auto;
+    padding: 350px 25px;
+    width: 70%;
+
+}
+
+section1 img{
+    max-width: 320px;
+    float: left;
+    border: 3px solid blueviolet;
+    border-radius: 10px;
+    margin-right: 15px;
+}
+
+section1 .text-box {
+    color: purple;
+    -webkit-text-stroke: 1px purple;
+}
+
+section1 .text-box p{
+    color: purple;
+}
+
+section1 .text-box h2{
+    font-size: 42px;
+}
+
+section1 .text-box p{
+    font-size: 20px;
+}

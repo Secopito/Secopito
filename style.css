@@ -1,0 +1,38 @@
+body{
+    background: url("pagebg.png");
+    background-attachment: fixed;
+    color:purple;
+    min-height: 100vh;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+footer{
+    color: blueviolet;
+    border-style: double;
+    border-radius: 50px;
+    border-width: 10px;
+    background-color: #feafff;
+    text-align: center;
+}
+
+footer button{
+ 
+    border: none;
+    background: none;
+    margin: 15px 100px;
+    padding: 15px 120px;
+    font-size: 18px;
+    text-decoration: none;
+    font-family: "Poppins", sans-serif;
+    color: blueviolet;
+
+}

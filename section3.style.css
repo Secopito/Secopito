@@ -1,0 +1,60 @@
+
+section3 h2{
+    margin: 25px;
+    padding: 75px;
+    text-align: center;
+    font-size: 50px;
+    color: #feafff;
+    -webkit-text-stroke: 1.5px purple;
+
+}
+
+section3 h3{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 35px;
+    color: yellow;
+    -webkit-text-stroke: 1.5px purple;
+}
+
+section3 p{
+    text-align: center;
+    color: purple;
+    margin: 5px;
+    padding: 5px;
+    font-size: 30px;
+    font-weight: 600;
+    -webkit-text-stroke: 1px #feafff;
+    
+}
+section3 img {
+
+    margin: 25px 0;
+    width: 750px;
+    height: 500px;
+    border: solid 5px blueviolet;
+    border-radius: 15px;
+
+}
+
+section3 video {
+    background: #fff;
+    position: center;
+    margin: 25px 0;
+    width: 750px;
+    height: 500px;
+    border: solid 5px blueviolet;
+    border-radius: 15px;
+
+}
+
+section3 audio {
+
+    margin: 25px 0;
+    width: 750px;
+    height: 50px;
+    border: solid 5px blueviolet;
+    border-radius: 25px;
+
+}
+
